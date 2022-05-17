@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to right bottom, #ff0000, #ff001f, #fd0031, #fa0040, #f6004e, #f10059, #ea0063, #e3016d, #da0c77, #cf1780, #c32188, #b62a8f);
+    font-family: "montserrat";
+}
+h1{
+    font-family: 'Montserrat-Bold';
+    font-size: 3.5rem;
+    margin-bottom: 3rem;
+}
+h3{
+    font-size: 2rem;
+    padding-bottom: 2rem;
+    text-decoration: underline;
+}
+p{
+    font-size: 2rem;
+    font-family: 'Montserrat-Bold';
+}
+.bottom-section{
+    padding-bottom: 3rem;
+}
+.outer-section{
+    padding: 15% 25%;
+}
+.container-fluid{
+    background-color: white;
+    padding-top: 1.5rem;
+    border-radius: 1rem;
+}
+.button{
+    padding: 5rem;
+}
+#btn{
+    width: 60%;
+}
